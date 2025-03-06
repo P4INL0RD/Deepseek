@@ -1,0 +1,8 @@
+streamlit
+azure-identity
+azure-ai-inference
+PyPDF2
+python-docx
+pandas
+pypandoc
+deep-translator
